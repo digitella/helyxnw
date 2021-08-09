@@ -792,10 +792,30 @@ a {
   font-size: 60px;
   color: #777;
 }
-.cid-sFyWErsbrb {
+.cid-sFD6bqBA9D {
   padding-top: 3rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+.cid-sFD6bqBA9D .mbr-text {
+  text-align: center;
+}
+.cid-sFyWErsbrb {
+  padding-top: 2rem;
   padding-bottom: 5rem;
   background-color: #ffffff;
+}
+#addthis_share {
+  /* Type valid CSS here */
+}
+#addthis_share div {
+  padding: 40px 0;
+  color: #777;
+  text-align: center;
+}
+#addthis_share p {
+  font-size: 40px;
+  color: #777;
 }
 .cid-sFzAFJWPZV {
   padding-top: 30px;
