@@ -727,6 +727,8 @@ a {
   color: #ffffff;
 }
 .cid-sFltZQK1t6 {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
   background-image: url("../../../assets/images/background3.jpg");
 }
 .cid-sFltZQK1t6 .number-wrap {
@@ -734,7 +736,7 @@ a {
   text-align: center;
 }
 .cid-sFltZQK1t6 .number {
-  color: #ffffff;
+  color: #e43f3f;
 }
 .cid-sFltZQK1t6 .period {
   display: block;
