@@ -79,7 +79,7 @@
       "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='terms.html'>Privacy Policy</a>."
     },
     "pwa-switcher": true,
-    "uniqCompNum": 32,
+    "uniqCompNum": 33,
     "versionPublish": "5.3.10",
     "publishChangesOnly": false,
     "screenshot": "screenshot.png",
@@ -370,6 +370,21 @@
           "_global": true,
           "_once": "footers",
           "_params": {}
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Type valid HTML here -->\n\n<div>\n   \n\n</div>",
+          "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 30px 0;\n  color: #777;\n  text-align: center;\n}\np {\n  font-size: 60px;\n  color: #777;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_sourceTheme": "mobirise5",
+          "_anchor": "custom-html-w",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         },
         {
           "alias": false,
