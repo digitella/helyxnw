@@ -337,8 +337,8 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n<div>\n\n    \n    <amp-iframe width=\"600\" height=\"730\" title=\"HELYX Intake form\" layout=\"responsive\" sandbox=\"allow-scripts allow-same-origin allow-popups\" allowfullscreen=\"\" frameborder=\"0\" src=\"https://northwest.helyx.ml/intake.html\">\n</amp-iframe>\n\n    </div> \n",
-          "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 40px 0;\n  color: #777;\n  text-align: center;\n}\np {\n  font-size: 60px;\n  color: #777;\n}",
+          "_customHTML": "<!-- Type valid HTML here -->\n<div>\n    <amp-iframe width=\"600\" height=\"730\" title=\"HELYX Intake form\" layout=\"responsive\" sandbox=\"allow-scripts allow-same-origin allow-popups\" allowfullscreen=\"\" frameborder=\"0\" src=\"https://northwest.helyx.ml/intake.html\">\n</amp-iframe>\n\n    </div> \n",
+          "_customCSS": "/* Type valid CSS here */\ndiv {\n  padding: 10px 0;\n  color: #777;\n  text-align: center;\n}\np {\n  font-size: 60px;\n  color: #777;\n}\n\namp-iframe:focus {\n  outline: none;\n}\n\namp-iframe[seamless] {\n  display: block;\n}\n",
           "alias": "code-editor",
           "_tags": [
             "Extension"

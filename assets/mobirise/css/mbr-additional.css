@@ -841,13 +841,19 @@ a {
   /* Type valid CSS here */
 }
 #crm div {
-  padding: 40px 0;
+  padding: 10px 0;
   color: #777;
   text-align: center;
 }
 #crm p {
   font-size: 60px;
   color: #777;
+}
+#crm amp-iframe:focus {
+  outline: none;
+}
+#crm amp-iframe[seamless] {
+  display: block;
 }
 .cid-sFyWErsbrb {
   padding-top: 5rem;
